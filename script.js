@@ -23,7 +23,6 @@ Test the function with different input numbers to generate multiplication tables
 
 //SOLUTION:
 
-
 function multiplicationTable (num){
     for(i=0;i<=10;i++){
         let value = num * i;
@@ -31,6 +30,7 @@ function multiplicationTable (num){
     }
 }
 
+
 //multiplicationTable(12);
 
-multiplicationTable(19);
+multiplicationTable(15); 
